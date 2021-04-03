@@ -1,4 +1,4 @@
 # MeuSite
 
-Python django
-Sqlite3
+* Python django
+* Sqlite3
